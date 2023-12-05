@@ -1,0 +1,43 @@
+week,start_station_name,count,rank
+12,HQ QR,1037,1
+12,Clark St & Elm St,171,2
+12,St. Clair St & Erie St,169,3
+1,Canal St & Adams St,283,1
+1,Kingsbury St & Kinzie St,274,2
+1,Clinton St & Madison St,263,3
+13,Theater on the Lake,167,1
+13,Lake Shore Dr & North Blvd,152,2
+13,Lake Shore Dr & Monroe St,151,3
+6,Canal St & Adams St,750,1
+6,Clinton St & Madison St,644,2
+6,Clinton St & Washington Blvd,530,3
+3,Canal St & Adams St,760,1
+3,Clinton St & Madison St,686,2
+3,Clinton St & Washington Blvd,591,3
+5,Canal St & Adams St,868,1
+5,Clinton St & Madison St,757,2
+5,Clinton St & Washington Blvd,610,3
+9,Canal St & Adams St,681,1
+9,Clinton St & Madison St,618,2
+9,HQ QR,557,3
+4,Canal St & Adams St,556,1
+4,Clinton St & Madison St,447,2
+4,Clinton St & Washington Blvd,435,3
+8,Canal St & Adams St,690,1
+8,Clinton St & Madison St,559,2
+8,Clinton St & Washington Blvd,527,3
+7,Canal St & Adams St,653,1
+7,Clinton St & Madison St,522,2
+7,Clinton St & Washington Blvd,483,3
+10,HQ QR,1141,1
+10,Canal St & Adams St,921,2
+10,Clinton St & Madison St,801,3
+11,HQ QR,1028,1
+11,Canal St & Adams St,671,2
+11,Clinton St & Washington Blvd,575,3
+14,St. Clair St & Erie St,43,1
+14,Clark St & Elm St,38,2
+14,Columbus Dr & Randolph St,36,3
+2,Canal St & Adams St,800,1
+2,Clinton St & Madison St,763,2
+2,Clinton St & Washington Blvd,594,3
